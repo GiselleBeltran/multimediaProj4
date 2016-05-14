@@ -6,6 +6,6 @@ First, the user will have to run on the termial (if a Mac):
 
 Then, the user will have to run the html documentation along with the CSS and JS files with it. 
 
-Lastly, the user should be able to conver the IP address into 'LONGITUDE' & 'LATITUDE' coordinates. 
+Lastly, the user should be able to convert the IP address into 'LONGITUDE' & 'LATITUDE' coordinates. 
 
 Promptly inputting them into the webpage that then "magically" marks the network 'path'.
